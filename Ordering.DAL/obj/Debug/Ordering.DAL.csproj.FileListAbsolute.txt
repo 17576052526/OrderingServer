@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\obj\Debug\Ordering.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\bin\Debug\Ordering.DAL.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\bin\Debug\Ordering.DAL.pdb
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\bin\Debug\Ordering.Model.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\bin\Debug\Ordering.Model.pdb
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\obj\Debug\Ordering.DAL.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.DAL\obj\Debug\Ordering.DAL.pdb

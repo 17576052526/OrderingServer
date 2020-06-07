@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\bin\Debug\Ordering.Model.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\bin\Debug\Ordering.Model.pdb
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\obj\Debug\Ordering.Model.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\obj\Debug\Ordering.Model.pdb
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\obj\Debug\Ordering.Model.csprojResolveAssemblyReference.cache

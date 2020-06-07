@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\bin\Release\Ordering.Model.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\bin\Release\Ordering.Model.pdb
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\obj\Release\Ordering.Model.dll
+C:\Users\Administrator\Desktop\OrderingServer\Ordering.Model\obj\Release\Ordering.Model.pdb
